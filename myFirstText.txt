@@ -26,5 +26,9 @@ git branch <branch-name>
 git branch 
 	- list available branches
 git checkout <branch-name>
+git merge <branch-name>
+	- go to 1 branch and choose the branch you want to merge to branch 1
+	- usually, merge is done with the source as "master"
+merge conflicts
 
 - Sankar
