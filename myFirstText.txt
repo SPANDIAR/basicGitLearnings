@@ -4,6 +4,10 @@ This quote just made my day
 
 "It always seems impossible, until it is done - Nelson Mandela"
 
+- Chain of events:
+
+Learned to revert changes using "revert" command.
+
 Git commands learnt until now:
 
 git init
@@ -11,5 +15,7 @@ git status
 git add
 git commit
 git log
+git revert
+	- optional parameter "-n" to indicate you want to control the commit
 
 - Sankar
