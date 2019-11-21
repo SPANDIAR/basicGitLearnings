@@ -1,1 +1,4 @@
 This file was created in the BanyanTree branch - Updated in RedWood Tree
+
+Ok, im in RedWood branch and wanted to check how git diff works
+I've added this file now. Lets see how these new changes are tracked
