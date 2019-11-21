@@ -1,1 +1,15 @@
-Hello World!!! This is my first text's initial draft - Sankar
+Hello World!!! This is my first text's initial draft 
+
+This quote just made my day 
+
+"It always seems impossible, until it is done - Nelson Mandela"
+
+Git commands learnt until now:
+
+git init
+git status
+git add
+git commit
+git log
+
+- Sankar
