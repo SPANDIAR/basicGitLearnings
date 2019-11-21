@@ -8,6 +8,7 @@ This quote just made my day
 
 Learned to revert changes using "revert" command.
 Learned to reset changes using "reset" command.
+Learned and understood "branching"
 
 Git commands learnt until now:
 
@@ -18,5 +19,9 @@ git commit
 git log
 git revert
 	- optional parameter "-n" to indicate you want to control the commit
+git branch <branch-name>
+git branch 
+	- list available branches
+git checkout <branch-name>
 
 - Sankar
