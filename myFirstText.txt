@@ -7,6 +7,7 @@ This quote just made my day
 - Chain of events:
 
 Learned to revert changes using "revert" command.
+Learned to reset changes using "reset" command.
 
 Git commands learnt until now:
 
