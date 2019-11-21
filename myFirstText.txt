@@ -9,6 +9,9 @@ This quote just made my day
 Learned to revert changes using "revert" command.
 Learned to reset changes using "reset" command.
 
+Adding this entry from the BanyanTree branch
+ - Adayar Aaala Maram is near the Cancer Institute
+
 Git commands learnt until now:
 
 git init
