@@ -4,6 +4,9 @@ This quote just made my day
 
 "It always seems impossible, until it is done - Nelson Mandela"
 
+Ok, I want to try out revert and reset now.
+
+
 Git commands learnt until now:
 
 git init
